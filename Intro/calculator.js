@@ -1,5 +1,5 @@
-const calculator = (a, b) => a + b;
-const calculator = (a, b) => a - b;
+const add = (a, b) => a + b;
+const sub = (a, b) => a - b;
 
 exports.add = add;
 exports.sub = sub;
